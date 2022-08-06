@@ -4,31 +4,35 @@ export const Database = {
       frase: "A vida e uma caixa preta nunca saberemos o seu real significado",
     },
     {
-      frase: "Faça a pessoa que você gosta se sentir especial ao invés de só mais uma",
+      frase:
+        "Faça a pessoa que você gosta se sentir especial ao invés de só mais uma",
     },
     {
       frase: "não deveríamos temer a morte, mais sim a vida.",
     },
     {
-      frase: "dica4",
+      frase: "Teu abraço eras confortante",
     },
     {
-      frase: "dica5",
+      frase:
+        "Seja estranho. Seja aleatório. Seja quem você é. Porque você nunca sabe quem amaria a pessoa que você esconde.",
     },
     {
-      frase: "dica6",
+      frase: "A vida é um caos aleatório,ordenada pelo tempo",
     },
     {
-      frase: "dica7",
+      frase: "A verdade, é que dói lembrar dela",
     },
     {
-      frase: "dica8",
+      frase: "Cada instante é sempre.",
     },
     {
-      frase: "dica9",
+      frase:
+        "O aleatório não existe, nosso cérebro sempre toma decisões mesmo que ocultas.",
     },
     {
-      frase: "dica10",
+      frase:
+        "Um ato aleatório de bondade, por menor que seja, pode ter um tremendo impacto na vida de outra pessoa.",
     },
   ],
 };
